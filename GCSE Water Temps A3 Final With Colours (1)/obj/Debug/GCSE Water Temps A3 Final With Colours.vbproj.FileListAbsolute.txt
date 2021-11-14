@@ -1,0 +1,11 @@
+\\mgsnet-vm-fs1\users$\Students\19jliu\My Documents\Computing\Water Temps GCSE Projects\GCSE Water Temps A3 Final With Colours\obj\Debug\GCSE Water Temps A3 Final With Colours.vbproj.AssemblyReference.cache
+\\mgsnet-vm-fs1\users$\Students\19jliu\My Documents\Computing\Water Temps GCSE Projects\GCSE Water Temps A3 Final With Colours\obj\Debug\GCSE_Water_Temps_A3_Final_With_Colours.Resources.resources
+\\mgsnet-vm-fs1\users$\Students\19jliu\My Documents\Computing\Water Temps GCSE Projects\GCSE Water Temps A3 Final With Colours\obj\Debug\GCSE Water Temps A3 Final With Colours.vbproj.GenerateResource.cache
+\\mgsnet-vm-fs1\users$\Students\19jliu\My Documents\Computing\Water Temps GCSE Projects\GCSE Water Temps A3 Final With Colours\obj\Debug\GCSE Water Temps A3 Final With Colours.vbproj.CoreCompileInputs.cache
+\\mgsnet-vm-fs1\users$\Students\19jliu\My Documents\Computing\Water Temps GCSE Projects\GCSE Water Temps A3 Final With Colours\bin\Debug\GCSE Water Temps A3 Final With Colours.exe.config
+\\mgsnet-vm-fs1\users$\Students\19jliu\My Documents\Computing\Water Temps GCSE Projects\GCSE Water Temps A3 Final With Colours\bin\Debug\GCSE Water Temps A3 Final With Colours.exe
+\\mgsnet-vm-fs1\users$\Students\19jliu\My Documents\Computing\Water Temps GCSE Projects\GCSE Water Temps A3 Final With Colours\bin\Debug\GCSE Water Temps A3 Final With Colours.pdb
+\\mgsnet-vm-fs1\users$\Students\19jliu\My Documents\Computing\Water Temps GCSE Projects\GCSE Water Temps A3 Final With Colours\bin\Debug\GCSE Water Temps A3 Final With Colours.xml
+\\mgsnet-vm-fs1\users$\Students\19jliu\My Documents\Computing\Water Temps GCSE Projects\GCSE Water Temps A3 Final With Colours\obj\Debug\GCSE Water Temps A3 Final With Colours.exe
+\\mgsnet-vm-fs1\users$\Students\19jliu\My Documents\Computing\Water Temps GCSE Projects\GCSE Water Temps A3 Final With Colours\obj\Debug\GCSE Water Temps A3 Final With Colours.xml
+\\mgsnet-vm-fs1\users$\Students\19jliu\My Documents\Computing\Water Temps GCSE Projects\GCSE Water Temps A3 Final With Colours\obj\Debug\GCSE Water Temps A3 Final With Colours.pdb
